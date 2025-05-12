@@ -1,7 +1,8 @@
 import streamlit as st
 import requests
 
-API_URL = "http://192.168.1.22:8000"
+# API_URL = "http://192.168.1.22:8000"
+API_URL = "https://docs-agent.onrender.com"
 
 st.set_page_config(layout="wide", page_title="PDF ChatGPT")
 
