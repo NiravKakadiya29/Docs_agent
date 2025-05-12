@@ -6,7 +6,5 @@ langchain
 langchain-community
 sentence-transformers
 google-generativeai
-umap-learn
 python-dotenv
-streamlit
-matplotlib 
+streamlit 
