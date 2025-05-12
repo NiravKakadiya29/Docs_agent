@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pypdf
+chromadb
+langchain
+langchain-community
+sentence-transformers
+google-generativeai
+umap-learn
+python-dotenv
+streamlit
+matplotlib 
